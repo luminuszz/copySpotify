@@ -10,9 +10,13 @@ const Globalstyle = createGlobalStyle`
 
 html,body #root{
   height: 100%;
+  display:flex;
+
+  
 }
 
 body{
+ 
   text-rendering: optimizeLegibility !important;
   -webkit-font-smothing: antialiased !important;
   background: #181818;

@@ -1,12 +1,16 @@
 import React, { Fragment } from "react";
-import "./App.css";
 import Globalstyle from "./styles/global";
 import Sidebar from "./components/Sidebar";
+import Player from "./components/Player";
+import { Wrapper, Content } from "./styles/components";
 const App = () => (
-  <Fragment>
+  <Wrapper>
     <Globalstyle />
-    <Sidebar />
-  </Fragment>
+    <Content>
+      <Sidebar />
+    </Content>
+    <Player />
+  </Wrapper>
 );
 
 export default App;

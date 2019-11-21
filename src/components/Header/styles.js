@@ -15,7 +15,7 @@ export const Search = styled.div`
   margin-top: 5px;
   height: 24px;
   width: 180px;
-  padding: 6px 5px 5px 10px;
+  padding: 6px 45px 5px 10px;
   background: #fff url(${searchIcon}) no-repeat 10px center;
 
   input {
@@ -23,7 +23,7 @@ export const Search = styled.div`
     font-size: 13px;
     color: #121212;
     border: 0;
-    
+  }
 `;
 
 export const User = styled.div`

@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { Link } from "react-router-dom";
 
 export const Container = styled.div`
   flex: 1;
@@ -16,7 +17,7 @@ export const ListPlaylist = styled.div`
   display: flex;
 `;
 
-export const Playlist = styled.a`
+export const Playlist = styled(Link)`
   display: flex;
   flex-direction: column;
   margin-left: 20px;
@@ -28,7 +29,7 @@ export const Playlist = styled.a`
 
   img {
     height: 250px;
-    width: 100%;
+    width: 250px;
   }
 
   strong {
@@ -43,5 +44,9 @@ export const Playlist = styled.a`
     margin-top: 5px;
     font-size: 13px;
     color: #b3b3b3;
+  }
+
+  &:hover {
+    opacity: 0.5;
   }
 `;

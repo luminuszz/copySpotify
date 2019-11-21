@@ -6,7 +6,32 @@ const Browse = () => (
     <Title>Navegar</Title>
 
     <ListPlaylist>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
+        <img
+          src="https://i3.ytimg.com/vi/VBoxSQeFpJ8/mqdefault.jpg"
+          alt="playlist"
+        />
+        <strong>Fui na boca</strong>
+        <p>Venha comprar pó com a boca de carrilho</p>
+      </Playlist>
+      <Playlist to="/playlists/1">
+        <img
+          src="https://i3.ytimg.com/vi/VBoxSQeFpJ8/mqdefault.jpg"
+          alt="playlist"
+        />
+        <strong>Fui na boca</strong>
+        <p>Venha comprar pó com a boca de carrilho</p>
+      </Playlist>
+      <Playlist to="/playlists/1">
+        >
+        <img
+          src="https://i3.ytimg.com/vi/VBoxSQeFpJ8/mqdefault.jpg"
+          alt="playlist"
+        />
+        <strong>Fui na boca</strong>
+        <p>Venha comprar pó com a boca de carrilho</p>
+      </Playlist>
+      <Playlist to="/playlists/1">
         <img
           src="https://i3.ytimg.com/vi/VBoxSQeFpJ8/mqdefault.jpg"
           alt="playlist"

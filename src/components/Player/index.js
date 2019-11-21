@@ -36,14 +36,14 @@ const Player = () => (
           <img src={ShuflleIcon} alt="ShuflleIcon" />
         </button>
         <button>
-          <img src={ForwardIcon} alt="ShuflleIcon" />
+          <img src={BackwardIcon} alt="ShuflleIcon" />
         </button>
         <button>
           <img src={PlayIcon} alt="ShuflleIcon" />
         </button>
 
         <button>
-          <img src={BackwardIcon} alt="ShuflleIcon" />
+          <img src={ForwardIcon} alt="ShuflleIcon" />
         </button>
 
         <button>

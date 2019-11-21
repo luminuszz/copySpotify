@@ -12,9 +12,10 @@ export const Search = styled.div`
   display: flex;
   align-items: center;
   border-radius: 12px;
+  margin-top: 5px;
   height: 24px;
   width: 180px;
-  padding: 6px 7px 6px 26px;
+  padding: 6px 5px 5px 10px;
   background: #fff url(${searchIcon}) no-repeat 10px center;
 
   input {
@@ -22,8 +23,7 @@ export const Search = styled.div`
     font-size: 13px;
     color: #121212;
     border: 0;
-    margin-left: 5px;
-  }
+    
 `;
 
 export const User = styled.div`

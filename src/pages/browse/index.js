@@ -8,36 +8,35 @@ const Browse = () => (
     <ListPlaylist>
       <Playlist to="/playlists/1">
         <img
-          src="https://i3.ytimg.com/vi/VBoxSQeFpJ8/mqdefault.jpg"
+          src="https://riffseconversas.files.wordpress.com/2015/12/ghost.jpg"
           alt="playlist"
         />
-        <strong>Fui na boca</strong>
-        <p>Venha comprar pó com a boca de carrilho</p>
+        <strong>Music</strong>
+        <p>Musicas para se curtir</p>
       </Playlist>
       <Playlist to="/playlists/1">
         <img
-          src="https://i3.ytimg.com/vi/VBoxSQeFpJ8/mqdefault.jpg"
+          src="https://upload.wikimedia.org/wikipedia/pt/b/b1/Tim_Maia_1971.jpeg"
           alt="playlist"
         />
-        <strong>Fui na boca</strong>
-        <p>Venha comprar pó com a boca de carrilho</p>
-      </Playlist>
-      <Playlist to="/playlists/1">
-        >
-        <img
-          src="https://i3.ytimg.com/vi/VBoxSQeFpJ8/mqdefault.jpg"
-          alt="playlist"
-        />
-        <strong>Fui na boca</strong>
-        <p>Venha comprar pó com a boca de carrilho</p>
+        <strong>Music</strong>
+        <p>Musicas para se curtir</p>
       </Playlist>
       <Playlist to="/playlists/1">
         <img
-          src="https://i3.ytimg.com/vi/VBoxSQeFpJ8/mqdefault.jpg"
+          src="https://upload.wikimedia.org/wikipedia/en/7/7b/Einaudi_UnaMattina.jpg"
           alt="playlist"
         />
-        <strong>Fui na boca</strong>
-        <p>Venha comprar pó com a boca de carrilho</p>
+        <strong>Music</strong>
+        <p>Musicas para se curtir</p>
+      </Playlist>
+      <Playlist to="/playlists/1">
+        <img
+          src="https://static.fnac-static.com/multimedia/Images/PT/NR/12/ed/0d/912658/1540-1/tsp20160815171817/Einaudi-Elements.jpg"
+          alt="playlist"
+        />
+        <strong>Music</strong>
+        <p>Musicas para se curtir</p>
       </Playlist>
     </ListPlaylist>
   </Container>

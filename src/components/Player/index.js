@@ -22,12 +22,12 @@ const Player = () => (
   <Container>
     <Current>
       <img
-        src="https://i3.ytimg.com/vi/VBoxSQeFpJ8/mqdefault.jpg"
+        src="https://upload.wikimedia.org/wikipedia/en/7/7b/Einaudi_UnaMattina.jpg"
         alt="album"
       />
       <div>
-        <strong>Fui na boca comprar pó</strong>
-        <small>Menino do bem</small>
+        <strong>lUDOVIC</strong>
+        <small>Elments</small>
       </div>
     </Current>
     <Progress>

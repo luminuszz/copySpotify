@@ -22,11 +22,11 @@ const Player = () => (
   <Container>
     <Current>
       <img
-        src="https://i3.ytimg.com/vi/VBoxSQeFpJ8/mqdefault.jpg"
+        src="https://upload.wikimedia.org/wikipedia/pt/b/b6/Back_in_Black.jpg"
         alt="album"
       />
       <div>
-        <strong>Fui na boca comprar pó</strong>
+        <strong>Music</strong>
         <small>Menino do bem</small>
       </div>
     </Current>

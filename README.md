@@ -11,10 +11,10 @@ In the project directory, you can run:
 
 or
 
-you can urn 
+you can run: 
 
 ### `npm install`
-### `npm run`
+### `npm start`
 
 ## Usage example
 

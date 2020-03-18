@@ -1,7 +1,7 @@
 import React from "react";
 
 import { Switch, Route } from "react-router-dom";
-import Browse from "../pages/Browse";
+import Browse from "../pages/browse/index";
 import Playlist from "../components/Playlist";
 
 const Routes = () => (

@@ -8,36 +8,36 @@ const Browse = () => (
     <ListPlaylist>
       <Playlist to="/playlists/1">
         <img
-          src="https://i3.ytimg.com/vi/VBoxSQeFpJ8/mqdefault.jpg"
+          src="https://upload.wikimedia.org/wikipedia/pt/b/b6/Back_in_Black.jpg"
           alt="playlist"
         />
-        <strong>Fui na boca</strong>
-        <p>Venha comprar pó com a boca de carrilho</p>
+        <strong>Music</strong>
+        <p>music</p>
       </Playlist>
       <Playlist to="/playlists/1">
         <img
-          src="https://i3.ytimg.com/vi/VBoxSQeFpJ8/mqdefault.jpg"
+          src="https://upload.wikimedia.org/wikipedia/pt/b/b6/Back_in_Black.jpg"
           alt="playlist"
         />
-        <strong>Fui na boca</strong>
-        <p>Venha comprar pó com a boca de carrilho</p>
+        <strong>Music</strong>
+        <p>music</p>
       </Playlist>
       <Playlist to="/playlists/1">
-        >
+
         <img
-          src="https://i3.ytimg.com/vi/VBoxSQeFpJ8/mqdefault.jpg"
+          src="https://upload.wikimedia.org/wikipedia/pt/b/b6/Back_in_Black.jpg"
           alt="playlist"
         />
-        <strong>Fui na boca</strong>
-        <p>Venha comprar pó com a boca de carrilho</p>
+        <strong>Music</strong>
+        <p>music</p>
       </Playlist>
       <Playlist to="/playlists/1">
         <img
-          src="https://i3.ytimg.com/vi/VBoxSQeFpJ8/mqdefault.jpg"
+          src="https://upload.wikimedia.org/wikipedia/pt/b/b6/Back_in_Black.jpg"
           alt="playlist"
         />
-        <strong>Fui na boca</strong>
-        <p>Venha comprar pó com a boca de carrilho</p>
+        <strong>Music</strong>
+        <p></p>
       </Playlist>
     </ListPlaylist>
   </Container>

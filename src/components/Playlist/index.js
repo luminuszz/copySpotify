@@ -8,12 +8,12 @@ const Playlist = () => (
   <Container>
     <Header>
       <img
-        src="https://i3.ytimg.com/vi/VBoxSQeFpJ8/mqdefault.jpg"
+        src="https://upload.wikimedia.org/wikipedia/pt/b/b6/Back_in_Black.jpg"
         alt="playlist"
       />
       <div className="teste">
         <span>Playlist</span>
-        <h1>O Pó</h1>
+        <h1>music</h1>
         <p>13 musics</p>
         <button>Play</button>
       </div>
@@ -35,38 +35,12 @@ const Playlist = () => (
           <td>
             <img src={PlusIcon} alt="Adicinar" />
           </td>
-          <td>Fui no pó</td>
-          <td>Carrilo Main</td>
-          <td>Do pò ao po</td>
-          <td>4:15</td>
+          <td>music</td>
+          <td>music</td>
+          <td>msusic</td>
+          <td>music</td>
         </tr>
-        <tr>
-          <td>
-            <img src={PlusIcon} alt="Adicinar" />
-          </td>
-          <td>Fui no pó</td>
-          <td>Carrilo Main</td>
-          <td>Do pò ao po</td>
-          <td>4:15</td>
-        </tr>
-        <tr>
-          <td>
-            <img src={PlusIcon} alt="Adicinar" />
-          </td>
-          <td>Fui no pó</td>
-          <td>Carrilo Main</td>
-          <td>Do pò ao po</td>
-          <td>4:15</td>
-        </tr>
-        <tr>
-          <td>
-            <img src={PlusIcon} alt="Adicinar" />
-          </td>
-          <td>Fui no pó</td>
-          <td>Carrilo Main</td>
-          <td>Do pò ao po</td>
-          <td>4:15</td>
-        </tr>
+
       </tbody>
     </SongList>
   </Container>
